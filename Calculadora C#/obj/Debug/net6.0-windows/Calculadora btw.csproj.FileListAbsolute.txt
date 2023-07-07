@@ -1,0 +1,17 @@
+C:\Users\kenne\source\repos\Calculadora btw\bin\Debug\net6.0-windows\Calculadora btw.exe
+C:\Users\kenne\source\repos\Calculadora btw\bin\Debug\net6.0-windows\Calculadora btw.deps.json
+C:\Users\kenne\source\repos\Calculadora btw\bin\Debug\net6.0-windows\Calculadora btw.runtimeconfig.json
+C:\Users\kenne\source\repos\Calculadora btw\bin\Debug\net6.0-windows\Calculadora btw.dll
+C:\Users\kenne\source\repos\Calculadora btw\bin\Debug\net6.0-windows\Calculadora btw.pdb
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.csproj.AssemblyReference.cache
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.csproj.GenerateResource.cache
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.AssemblyInfo.cs
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.dll
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\refint\Calculadora btw.dll
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.pdb
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora btw.genruntimeconfig.cache
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\ref\Calculadora btw.dll
+C:\Users\kenne\source\repos\Calculadora btw\obj\Debug\net6.0-windows\Calculadora.Form1.resources
